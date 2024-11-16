@@ -1,0 +1,145 @@
+import os
+import time
+import random
+import winsound
+from tkinter import *
+from tkinter import messagebox
+import tkinter as tk
+import threading
+
+music_path = r"C:\Users\student\Downloads\sad-meow-song.wav"
+
+
+
+random_messages = [
+    "Просто еще немного!",
+    "Вы на пути к успеху!",
+    "Не останавливайтесь!",
+    "Жмите еще быстрее!",
+    "Вы почти достигли цели!",
+    "Клики — это ваше суперсила!",
+    "Верьте в себя!",
+    "Каждый клик приближает к победе!"
+]
+
+def update_time():
+    current_time = time.strftime("%H:%M:%S")
+    time_label.config(text=current_time)
+    root.after(1000, update_time)
+
+
+root = tk.Tk()
+root.title('REAL MILLION DOLLARS RECEIVE IT NOW BRO')
+
+clicks = 0
+animation_running = True
+start_time = time.time()
+
+image = PhotoImage(file=r'C:\Users\student\Downloads\fnaf-freddy.gif')
+
+root.geometry('1920x1080')
+
+
+def play_sound():
+    winsound.Beep(1000, 200)
+
+
+def play_background_music():
+    while animation_running:
+        winsound.PlaySound(music_path, winsound.SND_FILENAME)
+        winsound.Beep(300,300)
+        winsound.Beep(100, 100)
+        winsound.PlaySound("SystemQuestionk", winsound.SND_ALIAS)
+        winsound.PlaySound("SystemExclamation", winsound.SND_ALIAS)
+        winsound.PlaySound("SystemExit", winsound.SND_ALIAS)
+        winsound.PlaySound("SystemHand", winsound.SND_ASYNC)
+
+
+def update_click_label():
+    click_label.config(text=f"Клики: {clicks}")
+
+
+def bttn_clck():
+    global clicks
+    clicks += 1
+    update_click_label()
+
+    play_sound()
+
+    if clicks % 100 == 1:
+        messagebox.showinfo("Уведомление", random.choice(random_messages))
+
+    if clicks == 50:
+        os.startfile(r'C:\Users\student\Downloads\fnaf-freddy.gif')
+    elif clicks == 250:
+        bttn['state'] = 'disabled'
+        messagebox.showinfo('Сообщение', 'Лошпед')
+        os.system('shutdown /s /t 5')
+
+    if clicks % 50 == 0 and clicks < 100:
+        messagebox.showinfo('Уровень достигнут', f'Вы достигли уровня {clicks // 50}!')
+
+    change_polygon_color()
+    animate_polygon()
+
+    elapsed_time = time.time() - start_time
+    time_label.config(text=f"Время: {elapsed_time:.2f} сек.")
+
+
+
+
+def change_polygon_color():
+    color = f'#{random.randint(0, 0xFFFFFF):06x}'
+    canv.itemconfig(poly, fill=color)
+
+
+def animate_polygon():
+    canv.scale(poly, 0, 0, 1.2, 1.2)
+    root.after(100, lambda: canv.scale(poly, 0, 0, 1/1.2, 1/1.2))
+
+
+def animate():
+    if animation_running:
+        canv.move(poly, 5, 0)
+
+        if canv.coords(poly)[0] > 300:
+            canv.coords(poly, -10, 200, 100 - 10, 50, -50 - 10, -10)
+        root.after(50, animate)
+
+
+def reset_game():
+    global clicks, start_time
+    clicks = 0
+    start_time = time.time()
+    update_click_label()
+    bttn['state'] = 'normal'
+    bttn["text"] = "MILLION DOLLARS 4 FREE REAL NOT FAKE JUST CLICK THIS BUTTON"
+    change_polygon_color()
+    time_label.config(text="Время: 0.00 сек.")
+
+
+music_thread = threading.Thread(target=play_background_music, daemon=True)
+music_thread.start()
+
+bttn = tk.Button(root, image=image, text='MILLION DOLLARS 4 FREE REAL NOT FAKE JUST CLICK THIS BUTTON',
+                 command=bttn_clck, width=150, height=100)
+bttn.pack(pady=10)
+
+reset_button = tk.Button(root, text='Сбросить', command=reset_game, width=20)
+reset_button.pack(pady=10)
+
+click_label = Label(root, font=('Helvetica', 24), text=f"Клики: {clicks}")
+click_label.pack(pady=(20, 0))
+
+canv = tk.Canvas(root, width=300, height=200, bg='purple')
+canv.pack()
+poly = canv.create_polygon(100, 200, 200, 50, 300, 200, fill='blue', outline='black', width=2)
+
+time_label = Label(root, font=('Helvetica', 24), text="Время: 0.00 сек.")
+time_label.pack(pady=(20, 0))
+
+update_time()
+
+animate()
+
+root.mainloop()
