@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a4a,100:0d1117&height=220&section=header&text=NovaCode37&fontSize=68&fontColor=41b0f5&animation=fadeIn&fontAlignY=38&desc=Python%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Machine%20Learning&descAlignY=58&descAlign=50&descColor=6e8ca0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a4a,100:0d1117&height=220&section=header&text=NovaCode37&fontSize=68&fontColor=41b0f5&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Web%20Backend%20%7C%20Cybersecurity&descAlignY=58&descAlign=50&descColor=6e8ca0" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/NovaCode37">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=41B0F5&center=true&vCenter=true&multiline=false&width=520&lines=Building+Honeypots+%26+Threat+Intel+Tools;Backend+Dev+%7C+Python+%7C+Flask+%7C+Docker;ML+Anomaly+Detection+%7C+IsolationForest;Open+Source+%E2%80%A2+Cybersecurity+%E2%80%A2+Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=41B0F5&center=true&vCenter=true&multiline=false&width=560&lines=Building+Honeypots+%26+Threat+Intel+Tools;Backend+Dev+%7C+Python+%7C+Flask+%7C+Docker;Web+Security+%7C+Infosec+%7C+Open+Source;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
   </a>
 </div>
 
@@ -61,12 +61,6 @@ class NovaCode37:
 **Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=flask,docker,git,github,sqlite,linux&theme=dark" />
-
-**ML / Data**
-
-<img src="https://skillicons.dev/icons?i=sklearn" />&nbsp;
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn"/>
-<img src="https://img.shields.io/badge/IsolationForest-Anomaly_Detection-0078D4?style=for-the-badge&logo=python&logoColor=white" alt="isolation forest"/>
 
 **Security**
 
