@@ -82,7 +82,7 @@ class NovaCode37:
 ## Mission Log
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NovaCode37&hide_border=true&background=060612&stroke=4cc9f0&ring=9d4edd&fire=f72585&currStreakLabel=4cc9f0&sideLabels=9d4edd&sideNums=4cc9f0&dates=5a5a8a&border_radius=10" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=NovaCode37&hide_border=true&background=060612&stroke=4cc9f0&ring=9d4edd&fire=f72585&currStreakNum=ffffff&currStreakLabel=4cc9f0&sideLabels=9d4edd&sideNums=4cc9f0&dates=5a5a8a&border_radius=10" alt="streak stats"/>
 </div>
 
 <br/>
