@@ -109,6 +109,32 @@ class NovaCode37:
 ---
 
 
+## Contribution Grid
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NovaCode37/NovaCode37/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NovaCode37/NovaCode37/output/snake-light.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/NovaCode37/NovaCode37/output/snake-dark.svg"/>
+  </picture>
+</div>
+
+<br/>
+
+---
+
+
+## Transmission of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" width="100%"/>
+</div>
+
+<br/>
+
+---
+
+
 ## Trajectory
 
 <div align="center">
