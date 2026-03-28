@@ -147,7 +147,7 @@ class NovaCode37:
 
 [![GitHub](https://img.shields.io/badge/GitHub-NovaCode37-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NovaCode37)
 [![Telegram](https://img.shields.io/badge/Telegram-@trulysoulless-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/trulysoulless)
-[![Email](https://img.shields.io/badge/Email-contact%40entropq2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:entropq2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-entropq2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:entropq2@gmail.com)
 
 </div>
 
