@@ -31,7 +31,7 @@
 # ──────────────────────────────────────────────────
 # >> SIGNAL RECEIVED
 # >> ORIGIN   : 55.75 N | 37.62 E | Sol III
-# >> SECTOR   : Milky Way > Perseus Arm > Earth
+# >> SECTOR   : Milky Way > Orion Arm > Earth
 # ──────────────────────────────────────────────────
 
 class NovaCode37:
