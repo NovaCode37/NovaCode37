@@ -113,7 +113,7 @@ class NovaCode37:
 
 <div align="center">
 
-[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrfwwq4rainrvrrlqeky6mxeqi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=060612&interchange=true&bar_color=4cc9f0&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrfwwq4rainrvrrlqeky6mxeqi&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrfwwq4rainrvrrlqeky6mxeqi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrfwwq4rainrvrrlqeky6mxeqi&redirect=true)
 
 </div>
 
