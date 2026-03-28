@@ -87,42 +87,9 @@ class NovaCode37:
 ## Featured Project
 
 <div align="center">
-  <a href="https://github.com/NovaCode37/honeypot-dashboard"><b>honeypot-dashboard</b></a>
-  &nbsp;—&nbsp; Real-Time Honeypot & Threat Intelligence Platform
-</div>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/SSH-Honeypot-2E4057?style=for-the-badge" /><br/>
-      <sub>SSH server capturing brute-force attempts</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/HTTP-Honeypot-2E4057?style=for-the-badge" /><br/>
-      <sub>Fake Apache/WordPress endpoint for exploit detection</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/FTP-Honeypot-2E4057?style=for-the-badge" /><br/>
-      <sub>Raw-socket FTP server recording credential attempts</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Live-Dashboard-2E4057?style=for-the-badge" /><br/>
-      <sub>Flask + SocketIO real-time WebSocket dashboard</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-3.0-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-WAL-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Coming%20Soon-41b0f5?style=for-the-badge" />
+  <br/><br/>
+  <sub>Next project is in the works — stay tuned</sub>
 </div>
 
 <br/>
