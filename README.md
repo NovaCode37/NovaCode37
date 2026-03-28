@@ -112,9 +112,9 @@ class NovaCode37:
 ## Now Playing
 
 <div align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-github-profile.kittinan.dev/api/now-playing?uid=YOUR_UID_HERE&cover_image=true&theme=natemoo-re&show_offline=true&background_color=060612&interchange=true&bar_color=4cc9f0&bar_color_cover=false" alt="Spotify Now Playing" width="420"/>
-  </a>
+
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrfwwq4rainrvrrlqeky6mxeqi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=060612&interchange=true&bar_color=4cc9f0&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrfwwq4rainrvrrlqeky6mxeqi&redirect=true)
+
 </div>
 
 <br/>
