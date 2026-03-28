@@ -1,11 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060612,50:150030,100:060612&height=220&section=header&text=NovaCode37&fontSize=68&fontColor=4cc9f0&animation=fadeIn&fontAlignY=38&desc=Exploring%20the%20Digital%20Universe%20%7C%20Python%20%7C%20Cybersecurity&descAlignY=58&descAlign=50&descColor=9d4edd" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:060612,20:1a0050,50:060a2e,80:1a0050,100:060612&height=200&text=NovaCode37&fontSize=68&fontColor=4cc9f0&animation=fadeIn&fontAlignY=45&desc=Exploring%20the%20Digital%20Universe%20%7C%20Python%20%7C%20Cybersecurity&descAlignY=65&descAlign=50&descColor=9d4edd&stroke=4cc9f0&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/NovaCode37">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=4CC9F0&center=true&vCenter=true&multiline=false&width=560&lines=Backend+Dev+%7C+Python+%7C+Flask;Building+Honeypots+%26+Threat+Intel+Tools;Web+Security+%7C+Infosec+%7C+Open+Source;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/COORD-55.75%C2%B0%20N%20%7C%2037.62%C2%B0%20E-10002b?style=flat-square&logoColor=4cc9f0"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SECTOR-Milky%20Way%20%E2%80%A3%20Orion%20Arm%20%E2%80%A3%20Sol%20III-10002b?style=flat-square&logoColor=9d4edd"/>
 </div>
 
 <br/>
