@@ -109,25 +109,12 @@ class NovaCode37:
 ---
 
 
-## Contribution Grid
+## Now Playing
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NovaCode37/NovaCode37/output/snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NovaCode37/NovaCode37/output/snake-light.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/NovaCode37/NovaCode37/output/snake-dark.svg"/>
-  </picture>
-</div>
-
-<br/>
-
----
-
-
-## Transmission of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" width="100%"/>
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-github-profile.kittinan.dev/api/now-playing?uid=YOUR_UID_HERE&cover_image=true&theme=natemoo-re&show_offline=true&background_color=060612&interchange=true&bar_color=4cc9f0&bar_color_cover=false" alt="Spotify Now Playing" width="420"/>
+  </a>
 </div>
 
 <br/>
