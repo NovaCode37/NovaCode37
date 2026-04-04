@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/NovaCode37">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=4CC9F0&center=true&vCenter=true&multiline=false&width=560&lines=Backend+Dev+%7C+Python+%7C+Flask;Building+Honeypots+%26+Threat+Intel+Tools;Web+Security+%7C+Infosec+%7C+Open+Source;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=4CC9F0&center=true&vCenter=true&multiline=false&width=560&lines=Backend+Dev+%7C+Python+%7C+FastAPI;Building+Honeypots+%26+Threat+Intel+Tools;Web+Security+%7C+Infosec+%7C+Open+Source;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
   </a>
 </div>
 
