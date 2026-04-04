@@ -46,7 +46,7 @@ class NovaCode37:
     origin     = "Russia"          # Terra, Sol III
 
     focus      = ["Cybersecurity", "Web Backend", "Threat Intelligence"]
-    stack      = ["Python", "Flask", "SQLite", "Git"]
+    stack      = ["Python", "FastAPI", "SQLite", "Git"]
     interests  = ["Honeypots", "Network Security", "Open Source"]
 
     mission    = "HoneyShield — real-time honeypot & threat intel platform"
@@ -71,7 +71,7 @@ class NovaCode37:
 
 **[ Frameworks & Tools ]**
 
-<img src="https://skillicons.dev/icons?i=flask,git,github,sqlite,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,sqlite,linux&theme=dark" />
 
 **[ Security ]**
 
