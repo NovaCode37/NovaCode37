@@ -49,7 +49,7 @@ class NovaCode37:
     stack      = ["Python", "FastAPI", "SQLite", "Git"]
     interests  = ["Honeypots", "Network Security", "Open Source"]
 
-    mission    = "HoneyShield — real-time honeypot & threat intel platform"
+    mission    = "HoneyShield — real-time honeypot & threat intel platform, PRISM v2.0 — open-source intelligence platform"
     open_to    = "Collaborating on security tools & research projects"
 
     def transmit(self):
