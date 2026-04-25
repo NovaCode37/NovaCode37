@@ -36,30 +36,30 @@ open_to:      Research collaboration & university programs
 
 <table>
   <tr>
-    <td width="60" align="center">🇷🇺</td>
+    <td width="140" align="center"><img src="https://img.shields.io/badge/OLYMPIAD-0a0e27?style=for-the-badge&labelColor=0891b2"/></td>
     <td>
       <b>All-Russian Olympiad in Information Security (VSOSH)</b><br/>
       <sub>Municipal stage qualifier · Russia's premier nationwide academic competition · 2024–2025</sub>
     </td>
   </tr>
   <tr>
-    <td width="60" align="center">🧠</td>
+    <td width="140" align="center"><img src="https://img.shields.io/badge/OLYMPIAD-0a0e27?style=for-the-badge&labelColor=0891b2"/></td>
     <td>
       <b>All-Russian Olympiad in Machine Learning (VSOSH)</b><br/>
       <sub>Municipal stage qualifier · 2024–2025</sub>
     </td>
   </tr>
   <tr>
-    <td width="60" align="center">🥉</td>
+    <td width="140" align="center"><img src="https://img.shields.io/badge/3rd_PLACE-0a0e27?style=for-the-badge&labelColor=1e3a8a"/></td>
     <td>
-      <b>3rd Place — School Scientific Conference</b><br/>
+      <b>School Scientific Conference</b><br/>
       <sub>Research project: <i>"Evil Twin Attack Defense"</i> · threat analysis, lab simulation, 6-rule protection framework · 2025</sub>
     </td>
   </tr>
   <tr>
-    <td width="60" align="center">💼</td>
+    <td width="140" align="center"><img src="https://img.shields.io/badge/COMMERCIAL-0a0e27?style=for-the-badge&labelColor=334155"/></td>
     <td>
-      <b>Commercial Freelance Projects</b><br/>
+      <b>Freelance Development</b><br/>
       <sub>Delivered 3+ production deployments: print-ordering platform, appliance-repair service, Telegram moderation bot</sub>
     </td>
   </tr>
