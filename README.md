@@ -60,7 +60,7 @@ open_to:      Research collaboration & university programs
     <td width="140" align="center"><img src="https://img.shields.io/badge/COMMERCIAL-0a0e27?style=for-the-badge&labelColor=334155"/></td>
     <td>
       <b>Freelance Development</b><br/>
-      <sub>Delivered 3+ production deployments: print-ordering platform, appliance-repair service, Telegram moderation bot</sub>
+      <sub>Delivered 5+ production deployments: print-ordering platform, appliance-repair service, Telegram moderation bot</sub>
     </td>
   </tr>
 </table>
