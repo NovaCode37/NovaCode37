@@ -53,7 +53,7 @@ open_to:      Research collaboration & university programs
     <td width="140" align="center"><img src="https://img.shields.io/badge/3rd_PLACE-0a0e27?style=for-the-badge&labelColor=1e3a8a"/></td>
     <td>
       <b>School Scientific Conference</b><br/>
-      <sub>Research project: <i>"Evil Twin Attack Defense"</i> · threat analysis, lab simulation, 6-rule protection framework · 2025</sub>
+      <sub>Research project: <i>"Evil Twin Attack Defense"</i> · threat analysis, lab simulation, 6-rule protection framework · 2026</sub>
     </td>
   </tr>
   <tr>
