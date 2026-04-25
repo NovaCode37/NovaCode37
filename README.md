@@ -39,14 +39,14 @@ open_to:      Research collaboration & university programs
     <td width="140" align="center"><img src="https://img.shields.io/badge/OLYMPIAD-0a0e27?style=for-the-badge&labelColor=0891b2"/></td>
     <td>
       <b>All-Russian Olympiad in Information Security (VSOSH)</b><br/>
-      <sub>Municipal stage qualifier · Russia's premier nationwide academic competition · 2024–2025</sub>
+      <sub>Municipal stage qualifier · Russia's premier nationwide academic competition · 2025–2026</sub>
     </td>
   </tr>
   <tr>
     <td width="140" align="center"><img src="https://img.shields.io/badge/OLYMPIAD-0a0e27?style=for-the-badge&labelColor=0891b2"/></td>
     <td>
       <b>All-Russian Olympiad in Machine Learning (VSOSH)</b><br/>
-      <sub>Municipal stage qualifier · 2024–2025</sub>
+      <sub>Municipal stage qualifier · 2025–2026</sub>
     </td>
   </tr>
   <tr>
