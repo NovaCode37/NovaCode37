@@ -39,20 +39,27 @@ open_to:      Research collaboration & university programs
     <td width="140" align="center"><img src="https://img.shields.io/badge/2nd_PLACE-0a0e27?style=for-the-badge&labelColor=ca8a04"/></td>
     <td>
       <b>National Technology Olympiad (NTI) — National Final</b><br/>
-      <sub>2nd place in the team competition · Space Technologies track · interdisciplinary engineering & programming contest · 2020</sub>
+      <sub>2nd place in the team competition · Space Technologies track · interdisciplinary engineering & programming contest · 2020-2021</sub>
     </td>
   </tr>
   <tr>
     <td width="140" align="center"><img src="https://img.shields.io/badge/OLYMPIAD-0a0e27?style=for-the-badge&labelColor=0891b2"/></td>
     <td>
       <b>All-Russian Olympiad in Information Security (VSOSH)</b><br/>
-      <sub>Municipal stage qualifier · Russia's premier nationwide academic competition · 2024–2025</sub>
+      <sub>Municipal stage qualifier · Russia's premier nationwide academic competition · 2025–2026</sub>
     </td>
   </tr>
   <tr>
     <td width="140" align="center"><img src="https://img.shields.io/badge/OLYMPIAD-0a0e27?style=for-the-badge&labelColor=0891b2"/></td>
     <td>
       <b>All-Russian Olympiad in Machine Learning (VSOSH)</b><br/>
+      <sub>Municipal stage qualifier · 2025–2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="140" align="center"><img src="https://img.shields.io/badge/OLYMPIAD-0a0e27?style=for-the-badge&labelColor=0891b2"/></td>
+    <td>
+      <b>All-Russian Olympiad in Astronomy (VSOSH)</b><br/>
       <sub>Municipal stage qualifier · 2024–2025</sub>
     </td>
   </tr>
@@ -60,14 +67,21 @@ open_to:      Research collaboration & university programs
     <td width="140" align="center"><img src="https://img.shields.io/badge/3rd_PLACE-0a0e27?style=for-the-badge&labelColor=1e3a8a"/></td>
     <td>
       <b>School Scientific Conference</b><br/>
-      <sub>Research project: <i>"Evil Twin Attack Defense"</i> · threat analysis, lab simulation, 6-rule protection framework · 2025</sub>
+      <sub>Research project: <i>"Evil Twin Attack Defense"</i> · threat analysis, lab simulation, 6-rule protection framework · 2025-2026</sub>
     </td>
   </tr>
   <tr>
     <td width="140" align="center"><img src="https://img.shields.io/badge/COMMERCIAL-0a0e27?style=for-the-badge&labelColor=334155"/></td>
     <td>
       <b>Freelance Development</b><br/>
-      <sub>Delivered 3+ production deployments: print-ordering platform, appliance-repair service, Telegram moderation bot</sub>
+      <sub>Delivered 5+ production deployments: print-ordering platform, appliance-repair service, Telegram moderation bot</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="140" align="center"><img src="https://img.shields.io/badge/PUBLISHED-0a0e27?style=for-the-badge&labelColor=7c3aed"/></td>
+    <td>
+      <b>Astrophotography — Published Works & Community</b><br/>
+      <sub>Featured on 35Awards & Deepskyhosting · run <a href="https://t.me/novastrophoto"><b>@novastrophoto</b></a>, a Telegram channel on deep-sky imaging (220+ subscribers) · self-developed Python image-processing tools for personal workflow</sub>
     </td>
   </tr>
 </table>
