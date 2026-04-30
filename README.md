@@ -36,10 +36,24 @@ open_to:      Research collaboration & university programs
 
 <table>
   <tr>
+    <td width="140" align="center"><img src="https://img.shields.io/badge/1st_PLACE-0a0e27?style=for-the-badge&labelColor=eab308"/></td>
+    <td>
+      <b>Digital Wind (Цифровой ветер) — Web Development Competition</b><br/>
+      <sub>🥇 1st place · <a href="https://github.com/NovaCode37/web-dev-competition"><b>Nova Astro</b></a> — fullstack space tourism platform · Next.js 16 + FastAPI · 10 REST endpoints, custom HUD design system, booking flow · 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="140" align="center"><img src="https://img.shields.io/badge/HACKATHON-0a0e27?style=for-the-badge&labelColor=db2777"/></td>
+    <td>
+      <b>HACKANET Hackathon — Aerobic.Space Analytics Platform</b><br/>
+      <sub>Built end-to-end in 3 days for the Russian Aerobic Gymnastics Federation · <a href="https://github.com/NovaCode37/HACKANET-Hackathon"><b>repo</b></a> · judging-bias detection, per-region bias coefficients, score-dependent accuracy engine · Next.js 16 + FastAPI + PostgreSQL · 28 backend tests passing · 2026</sub>
+    </td>
+  </tr>
+  <tr>
     <td width="140" align="center"><img src="https://img.shields.io/badge/2nd_PLACE-0a0e27?style=for-the-badge&labelColor=ca8a04"/></td>
     <td>
       <b>National Technology Olympiad (NTI) — National Final</b><br/>
-      <sub>2nd place in the team competition · Space Technologies track · interdisciplinary engineering & programming contest · 2020-2021</sub>
+      <sub>2nd place in the team competition · Space Technologies track · interdisciplinary engineering & programming contest · 2020</sub>
     </td>
   </tr>
   <tr>
@@ -74,14 +88,14 @@ open_to:      Research collaboration & university programs
     <td width="140" align="center"><img src="https://img.shields.io/badge/COMMERCIAL-0a0e27?style=for-the-badge&labelColor=334155"/></td>
     <td>
       <b>Freelance Development</b><br/>
-      <sub>Delivered 5+ production deployments: print-ordering platform, appliance-repair service, Telegram moderation bot</sub>
+      <sub>Delivered 3+ production deployments: print-ordering platform, appliance-repair service, Telegram moderation bot</sub>
     </td>
   </tr>
   <tr>
     <td width="140" align="center"><img src="https://img.shields.io/badge/PUBLISHED-0a0e27?style=for-the-badge&labelColor=7c3aed"/></td>
     <td>
       <b>Astrophotography — Published Works & Community</b><br/>
-      <sub>Featured on 35Awards & Deepskyhosting · run <a href="https://t.me/novastrophoto"><b>@novastrophoto</b></a>, a Telegram channel on deep-sky imaging (220+ subscribers) · self-developed Python image-processing tools for personal workflow</sub>
+      <sub>Featured on 35Awards & Deepskyhosting · run <a href="https://t.me/novastrophoto"><b>@novastrophoto</b></a>, a Telegram channel on deep-sky imaging (100+ subscribers) · self-developed Python image-processing tools for personal workflow</sub>
     </td>
   </tr>
 </table>
@@ -91,6 +105,26 @@ open_to:      Research collaboration & university programs
 ## Featured Projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥇 <a href="https://github.com/NovaCode37/web-dev-competition">Nova Astro — Space Tourism</a></h3>
+      <p>Fullstack space tourism platform — mission catalog, booking flow, custom HUD design system, 10 REST endpoints. <b>1st place at Digital Wind competition.</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NovaCode37/HACKANET-Hackathon">Aerobic.Space — Judge Analytics</a></h3>
+      <p>Full-stack analytics platform for the Russian Aerobic Gymnastics Federation. Detects judging bias and scoring accuracy. <b>Built in 3 days at HACKANET hackathon.</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/NovaCode37/Prism-platform">Prism Platform</a></h3>
