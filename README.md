@@ -25,7 +25,7 @@ I'm a high-school student from Russia, focused on **cybersecurity research**, **
 
 ```yaml
 focus:        [OSINT automation, threat intelligence, network security]
-learning:     [Advanced ML for security, Rust, distributed systems]
+learning:     [Advanced ML for security, Go, distributed systems]
 expertise:    [Python security tooling, OWASP, penetration testing]
 open_to:      Research collaboration & university programs
 ```
