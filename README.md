@@ -95,7 +95,7 @@ open_to:      Research collaboration & university programs
     <td width="140" align="center"><img src="https://img.shields.io/badge/PUBLISHED-0a0e27?style=for-the-badge&labelColor=7c3aed"/></td>
     <td>
       <b>Astrophotography — Published Works & Community</b><br/>
-      <sub>Featured on 35Awards & Deepskyhosting · run <a href="https://t.me/novastrophoto"><b>@novastrophoto</b></a>, a Telegram channel on deep-sky imaging (100+ subscribers) · self-developed Python image-processing tools for personal workflow</sub>
+      <sub>Featured on 35Awards & Deepskyhosting · run <a href="https://t.me/novastrophoto"><b>@novastrophoto</b></a>, a Telegram channel on deep-sky imaging (220+ subscribers) · self-developed Python image-processing tools for personal workflow</sub>
     </td>
   </tr>
 </table>
