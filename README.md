@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080320,35:6d28d9,75:c026d3,100:22d3ee&height=230&section=header&text=Savelii%20Golubev&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=security%20researcher%20%E2%9C%A6%20osint%20%E2%9C%A6%20python%20%E2%9C%A6%20astrophotographer&descAlignY=58&descSize=16&descColor=e9d5ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080320,30:6d28d9,70:c026d3,100:22d3ee&height=240&section=header&text=Savelii%20Golubev&fontSize=60&fontColor=ffffff&fontAlignY=34&desc=security%20researcher%20%E2%9C%A6%20osint%20%E2%9C%A6%20python%20%E2%9C%A6%20astrophotographer&descAlignY=56&descSize=16&descColor=e9d5ff&animation=fadeIn" width="100%"/>
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=find.+analyze.+defend.;building+open-source+security+tools;OSINT+%C2%B7+threat+intel+%C2%B7+network+security;chasing+photons+from+deep+space" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=850&color=22D3EE&center=true&vCenter=true&width=660&lines=find.+analyze.+defend.;building+open-source+security+tools;OSINT+%C2%B7+threat+intel+%C2%B7+network+security;chasing+photons+from+deep+space" alt="typing"/>
   </a>
 
-  <sub>✦ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ⋆ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ⋆ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ⋆ &nbsp;·&nbsp; ✦</sub>
+  <sub>✦ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ⋆ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ⋆ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ⋆ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ⋆ &nbsp;·&nbsp; ✦</sub>
 
 <p>
   <a href="mailto:entropq2@gmail.com"><img src="https://img.shields.io/badge/email-080320?style=flat-square&logo=gmail&logoColor=c026d3"/></a>
@@ -23,15 +23,9 @@ ground-station@nova ~ $ status
   ◍ mission .......... cybersecurity research · OSINT · applied ML
   ◍ trajectory ....... CS @ a leading international university
   ◍ side-quest ....... deep-sky astrophotography ✦ @novastrophoto
-
-ground-station@nova ~ $ cat focus.txt
-  ▸ OSINT automation        ▸ threat intelligence     ▸ network security
-  ▸ python security tooling ▸ OWASP / pentesting       ▸ ML for security
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6d28d9,50:c026d3,100:22d3ee&height=2&section=header" width="100%"/>
-
-### &nbsp; ⋆ &nbsp; Mission Log
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080320,100:6d28d9&height=46&text=%E2%97%86%20MISSION%20LOG&fontSize=20&fontColor=e9d5ff&fontAlignY=70&fontAlign=18" width="100%"/>
 
 <table>
   <tr><td align="center" width="120"><b>1st</b></td>
@@ -48,9 +42,7 @@ ground-station@nova ~ $ cat focus.txt
   <td><b>Astrophotography</b> — featured on 35Awards & Deepskyhosting · <a href="https://t.me/novastrophoto">@novastrophoto</a> (220+ subscribers)</td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6d28d9,50:c026d3,100:22d3ee&height=2&section=header" width="100%"/>
-
-### &nbsp; ⋆ &nbsp; Payloads
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080320,100:c026d3&height=46&text=%E2%97%86%20PAYLOADS&fontSize=20&fontColor=f5d0fe&fontAlignY=70&fontAlign=18" width="100%"/>
 
 <table>
   <tr>
@@ -91,27 +83,23 @@ ground-station@nova ~ $ cat focus.txt
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6d28d9,50:c026d3,100:22d3ee&height=2&section=header" width="100%"/>
-
-### &nbsp; ⋆ &nbsp; Instruments
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080320,100:22d3ee&height=46&text=%E2%97%86%20INSTRUMENTS&fontSize=20&fontColor=cffafe&fontAlignY=70&fontAlign=18" width="100%"/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,bash,fastapi,flask,nextjs,react,pytorch,postgres,docker,linux,kali,git,github&perline=14"/>
 </div>
 
-### &nbsp; ⋆ &nbsp; Telemetry
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080320,100:818cf8&height=46&text=%E2%97%86%20TELEMETRY&fontSize=20&fontColor=e0e7ff&fontAlignY=70&fontAlign=18" width="100%"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NovaCode37&show_icons=true&hide_border=true&hide=contribs&bg_color=080320&title_color=22d3ee&icon_color=c026d3&text_color=c7d2fe" height="158"/>
   <img src="https://github-readme-streak-stats.demolab.com?user=NovaCode37&hide_border=true&background=080320&stroke=6d28d9&ring=22d3ee&fire=c026d3&currStreakLabel=22d3ee&sideLabels=c7d2fe&dates=6366f1&currStreakNum=ffffff&sideNums=ffffff" height="158"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NovaCode37&bg_color=080320&color=c7d2fe&line=22d3ee&point=ffffff&area=true&area_color=6d28d9&hide_border=true&radius=10" width="100%"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,35:c026d3,100:080320&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080320,100:c026d3&height=46&text=%E2%98%84%20TRAJECTORY&fontSize=20&fontColor=f5d0fe&fontAlignY=70&fontAlign=18" width="100%"/>
 
 <div align="center">
-  <sub><code>"Somewhere, something incredible is waiting to be known."</code> — Carl Sagan</sub>
+  <img src="https://raw.githubusercontent.com/NovaCode37/NovaCode37/output/snake.svg" alt="contribution comet" width="100%"/>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,35:c026d3,100:080320&height=120&section=footer&text=somewhere,%20something%20incredible%20is%20waiting%20to%20be%20known&fontSize=15&fontColor=e9d5ff&fontAlignY=78&descSize=12" width="100%"/>
