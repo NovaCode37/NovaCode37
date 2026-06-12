@@ -105,7 +105,8 @@ ground-station@nova ~ $ cat focus.txt
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NovaCode37/NovaCode37/main/metrics.svg" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NovaCode37&show_icons=true&hide_border=true&hide=contribs&bg_color=080320&title_color=22d3ee&icon_color=c026d3&text_color=c7d2fe&ring_color=c026d3" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaCode37&layout=compact&hide_border=true&bg_color=080320&title_color=22d3ee&text_color=c7d2fe&langs_count=8" height="165"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080320,100:c026d3&height=46&text=%E2%98%84%20TRAJECTORY&fontSize=20&fontColor=f5d0fe&fontAlignY=70&fontAlign=18" width="100%"/>
