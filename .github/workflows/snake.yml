@@ -19,7 +19,8 @@ jobs:
         with:
           github_user_name: NovaCode37
           outputs: |
-            dist/snake.svg?color_snake=22d3ee&color_dots=1c1533,7c3aed,a855f7,c026d3,ec4899
+            dist/snake.svg?palette=github-dark
+
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
