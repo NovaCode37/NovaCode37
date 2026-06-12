@@ -14,12 +14,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: NovaCode37
           outputs: |
             dist/snake.svg?color_snake=22d3ee&color_dots=1c1533,7c3aed,a855f7,c026d3,ec4899
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
