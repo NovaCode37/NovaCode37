@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e27,50:0e7490,100:22d3ee&height=200&section=header&text=Savelii%20Golubev&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=%E2%9D%AF%20security%20researcher%20//%20osint%20//%20python&descAlignY=60&descSize=16&descColor=a5f3fc" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13001f,40:7c3aed,100:ec4899&height=210&section=header&text=Savelii%20Golubev&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=security%20researcher%20//%20osint%20//%20python%20//%20ml&descAlignY=60&descSize=17&descColor=f5d0fe" width="100%"/>
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=560&lines=building+open-source+security+tools;OSINT+%C2%B7+threat+intel+%C2%B7+network+security;python+%C2%B7+ml+%C2%B7+next.js" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=C084FC&center=true&vCenter=true&width=620&lines=find.+analyze.+defend.;building+open-source+security+tools;OSINT+%C2%B7+threat+intel+%C2%B7+network+security;turning+curiosity+into+code" alt="typing"/>
   </a>
 
 <p>
-  <a href="mailto:entropq2@gmail.com"><img src="https://img.shields.io/badge/email-0a0e27?style=flat-square&logo=gmail&logoColor=22d3ee"/></a>
-  <a href="https://github.com/NovaCode37"><img src="https://img.shields.io/badge/github-0a0e27?style=flat-square&logo=github&logoColor=22d3ee"/></a>
-  <a href="https://t.me/novastrophoto"><img src="https://img.shields.io/badge/telegram-0a0e27?style=flat-square&logo=telegram&logoColor=22d3ee"/></a>
-  <img src="https://komarev.com/ghpvc/?username=NovaCode37&style=flat-square&color=0e7490&labelColor=0a0e27&label=views"/>
+  <a href="mailto:entropq2@gmail.com"><img src="https://img.shields.io/badge/email-13001f?style=flat-square&logo=gmail&logoColor=ec4899"/></a>
+  <a href="https://github.com/NovaCode37"><img src="https://img.shields.io/badge/github-13001f?style=flat-square&logo=github&logoColor=c084fc"/></a>
+  <a href="https://t.me/novastrophoto"><img src="https://img.shields.io/badge/telegram-13001f?style=flat-square&logo=telegram&logoColor=a855f7"/></a>
+  <img src="https://komarev.com/ghpvc/?username=NovaCode37&style=flat-square&color=7c3aed&labelColor=13001f&label=views"/>
 </p>
 
 </div>
@@ -25,7 +25,7 @@ savelii@nova:~$ cat focus.txt
   ▸ python security tooling ▸ OWASP / pentesting       ▸ ML for security
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:22d3ee&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:ec4899&height=2&section=header" width="100%"/>
 
 ### &nbsp; Highlights
 
@@ -44,7 +44,7 @@ savelii@nova:~$ cat focus.txt
   <td><b>Astrophotography</b> — featured on 35Awards & Deepskyhosting · <a href="https://t.me/novastrophoto">@novastrophoto</a> (220+ subs)</td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:22d3ee&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:ec4899&height=2&section=header" width="100%"/>
 
 ### &nbsp; Selected Work
 
@@ -87,7 +87,7 @@ savelii@nova:~$ cat focus.txt
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:22d3ee&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:ec4899&height=2&section=header" width="100%"/>
 
 ### &nbsp; Stack
 
@@ -98,14 +98,14 @@ savelii@nova:~$ cat focus.txt
 ### &nbsp; Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NovaCode37&show_icons=true&hide_border=true&hide=contribs&bg_color=0a0e27&title_color=22d3ee&icon_color=22d3ee&text_color=a5f3fc" height="158"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=NovaCode37&hide_border=true&background=0a0e27&stroke=0e7490&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=a5f3fc&dates=475569&currStreakNum=ffffff&sideNums=ffffff" height="158"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NovaCode37&show_icons=true&hide_border=true&hide=contribs&bg_color=13001f&title_color=c084fc&icon_color=ec4899&text_color=f5d0fe" height="158"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=NovaCode37&hide_border=true&background=13001f&stroke=7c3aed&ring=ec4899&fire=ec4899&currStreakLabel=c084fc&sideLabels=f5d0fe&dates=8b6fae&currStreakNum=ffffff&sideNums=ffffff" height="158"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NovaCode37&bg_color=0a0e27&color=a5f3fc&line=22d3ee&point=ffffff&area=true&area_color=0e7490&hide_border=true&radius=10" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NovaCode37&bg_color=13001f&color=f5d0fe&line=ec4899&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=10" width="100%"/>
 </div>
 
 <div align="center">
