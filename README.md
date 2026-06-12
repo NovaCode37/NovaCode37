@@ -109,10 +109,4 @@ ground-station@nova ~ $ cat focus.txt
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaCode37&layout=compact&hide_border=true&bg_color=080320&title_color=22d3ee&text_color=c7d2fe&langs_count=8" height="165"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080320,100:c026d3&height=46&text=%E2%98%84%20TRAJECTORY&fontSize=20&fontColor=f5d0fe&fontAlignY=70&fontAlign=18" width="100%"/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NovaCode37/NovaCode37/output/snake.svg" alt="contribution comet" width="100%"/>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,35:c026d3,100:080320&height=120&section=footer&text=somewhere,%20something%20incredible%20is%20waiting%20to%20be%20known&fontSize=15&fontColor=e9d5ff&fontAlignY=80" width="100%"/>
