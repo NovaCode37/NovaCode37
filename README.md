@@ -1,8 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080320,30:6d28d9,70:c026d3,100:22d3ee&height=240&section=header&text=Savelii%20Golubev&fontSize=60&fontColor=ffffff&fontAlignY=34&desc=security%20researcher%20%E2%9C%A6%20osint%20%E2%9C%A6%20python%20%E2%9C%A6%20astrophotographer&descAlignY=56&descSize=16&descColor=e9d5ff&animation=fadeIn" width="100%"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080320,20:4c1d95,55:c026d3,100:22d3ee&height=300&section=header&animation=twinkling&text=&fontSize=0" width="100%"/>
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=850&color=22D3EE&center=true&vCenter=true&width=660&lines=find.+analyze.+defend.;building+open-source+security+tools;OSINT+%C2%B7+threat+intel+%C2%B7+network+security;chasing+photons+from+deep+space" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=48&duration=4500&pause=1200&color=C026D3&background=00000000&center=true&vCenter=true&width=820&height=90&lines=SAVELII+GOLUBEV;%E2%9C%A6+NOVACODE37+%E2%9C%A6" alt="name"/>
+  </a>
+
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=22D3EE&background=00000000&center=true&vCenter=true&width=680&lines=security+researcher+%C2%B7+osint+%C2%B7+python+%C2%B7+ml;find.+analyze.+defend.;chasing+photons+from+deep+space" alt="tagline"/>
   </a>
 
   <sub>✦ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ⋆ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ⋆ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ⋆ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ⋆ &nbsp;·&nbsp; ✦</sub>
@@ -23,6 +28,10 @@ ground-station@nova ~ $ status
   ◍ mission .......... cybersecurity research · OSINT · applied ML
   ◍ trajectory ....... CS @ a leading international university
   ◍ side-quest ....... deep-sky astrophotography ✦ @novastrophoto
+
+ground-station@nova ~ $ cat focus.txt
+  ▸ OSINT automation        ▸ threat intelligence     ▸ network security
+  ▸ python security tooling ▸ OWASP / pentesting       ▸ ML for security
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080320,100:6d28d9&height=46&text=%E2%97%86%20MISSION%20LOG&fontSize=20&fontColor=e9d5ff&fontAlignY=70&fontAlign=18" width="100%"/>
@@ -92,8 +101,11 @@ ground-station@nova ~ $ status
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080320,100:818cf8&height=46&text=%E2%97%86%20TELEMETRY&fontSize=20&fontColor=e0e7ff&fontAlignY=70&fontAlign=18" width="100%"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NovaCode37&show_icons=true&hide_border=true&hide=contribs&bg_color=080320&title_color=22d3ee&icon_color=c026d3&text_color=c7d2fe" height="158"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=NovaCode37&hide_border=true&background=080320&stroke=6d28d9&ring=22d3ee&fire=c026d3&currStreakLabel=22d3ee&sideLabels=c7d2fe&dates=6366f1&currStreakNum=ffffff&sideNums=ffffff" height="158"/>
+  <img src="https://raw.githubusercontent.com/NovaCode37/NovaCode37/main/metrics-isocalendar.svg" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NovaCode37/NovaCode37/main/metrics.svg" width="100%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080320,100:c026d3&height=46&text=%E2%98%84%20TRAJECTORY&fontSize=20&fontColor=f5d0fe&fontAlignY=70&fontAlign=18" width="100%"/>
@@ -102,4 +114,4 @@ ground-station@nova ~ $ status
   <img src="https://raw.githubusercontent.com/NovaCode37/NovaCode37/output/snake.svg" alt="contribution comet" width="100%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,35:c026d3,100:080320&height=120&section=footer&text=somewhere,%20something%20incredible%20is%20waiting%20to%20be%20known&fontSize=15&fontColor=e9d5ff&fontAlignY=78&descSize=12" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,35:c026d3,100:080320&height=120&section=footer&text=somewhere,%20something%20incredible%20is%20waiting%20to%20be%20known&fontSize=15&fontColor=e9d5ff&fontAlignY=80" width="100%"/>
