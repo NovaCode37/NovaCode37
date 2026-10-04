@@ -1,22 +1,24 @@
 ### Hiya!
 
 High-school student from Russia, heading into CS at university. I mostly build
-security tooling - OSINT automation, network defense, and some applied ML.
+security tooling: OSINT automation, network defense, and some applied ML.
 Off-screen I shoot deep-sky astrophotography.
 
 **What I'm up to**
-- Building [PRISM](https://github.com/NovaCode37/Prism-platform), a self-hosted OSINT platform
+- Maintaining PRISM and claude-security-skills, both open to contributions this Hacktoberfest
 - Competing in the All-Russian Olympiad (Information Security, ML, Astronomy)
-- Photographing the night sky — [@novastrophoto](https://t.me/novastrophoto) · [gallery](https://deepskyhosting.com/novaastro)
+- Photographing the night sky: [@novastrophoto](https://t.me/novastrophoto) · [gallery](https://deepskyhosting.com/novaastro)
 
 **Projects**
-- [PRISM](https://github.com/NovaCode37/Prism-platform) - self-hosted OSINT platform, 22+ modules, real-time dashboard
-- [Nova Astro](https://github.com/NovaCode37/web-dev-competition) - fullstack space-tourism site, 1st at the Digital Wind web-dev competition
-- [Aerobic.Space](https://github.com/NovaCode37/HACKANET-Hackathon) - judging-bias analytics for a national sports federation (built in 3 days at HACKANET)
-- [IMed-Helix](https://github.com/NovaCode37/IMed-Helix) - offline AI triage kiosk, ~85% accuracy
-- [Evil Twin Research](https://github.com/NovaCode37/eviltwin) - Wi-Fi attack/defense, 3rd at a school science conference
+- [PRISM](https://github.com/NovaCode37/Prism-platform): self-hosted OSINT platform. Give it a domain, IP, email, phone or username and 26 modules run in parallel, with a live dashboard, an exposure score and PDF reports
+- [claude-security-skills](https://github.com/NovaCode37/claude-security-skills): eight dependency-free security skills for Claude Code (secret scanning, Python SAST, JWT, CORS, Dockerfile checks), also usable as a GitHub Action
+- [Nova Astro](https://github.com/NovaCode37/web-dev-competition): fullstack space-tourism site, 1st at the Digital Wind web-dev competition
+- [Aerobic.Space](https://github.com/NovaCode37/HACKANET-Hackathon): judging-bias analytics for a national sports federation, built in 3 days at HACKANET
+- [IMed-Helix](https://github.com/NovaCode37/IMed-Helix): offline AI triage kiosk, ~85% accuracy
+- [Evil Twin Research](https://github.com/NovaCode37/eviltwin): Wi-Fi attack and defense, 3rd at a school science conference
 
 **Tools I reach for**
+
 Python · TypeScript · FastAPI · Next.js · PyTorch · PostgreSQL · Docker · Linux · Kali
 
 **Now playing**
@@ -27,4 +29,4 @@ Python · TypeScript · FastAPI · Next.js · PyTorch · PostgreSQL · Docker ·
   </a>
 </p>
 
-entropq2@gmail.com · [GitHub](https://github.com/NovaCode37) · [Telegram](https://t.me/novastrophoto) · [Astrophotography](https://deepskyhosting.com/novaastro)
+entropq2@gmail.com · [Telegram](https://t.me/novastrophoto) · [Astrophotography](https://deepskyhosting.com/novaastro)
